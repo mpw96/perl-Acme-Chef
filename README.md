@@ -1,11 +1,12 @@
-Acme::Chef
+Acme::Chef ![Travis CI Build Status](https://travis-ci.org/mpw96/perl-Acme-Chef.svg?branch=master)
 ==========
 
 Acme::Chef and all contained modules represent a simple
 interpreter of the Chef programming language designed by
 David Morgan-Mar.
 
-INSTALLATION
+Installation
+------------
 
 To install this module type the following:
 
@@ -28,14 +29,16 @@ If you wish, you may use the old MakeMaker style instead:
    make test
    make install
 
-DEPENDENCIES
+Dependencies
+------------
 
 This module requires these other modules and libraries:
 
   File::Temp
   Test::More
 
-SEE ALSO
+See also
+--------
 
 Current versions of this module may be found on http://steffen-mueller.net or
 CPAN.
@@ -43,7 +46,8 @@ CPAN.
 Please send your suggestions, inquiries, and feedback to
 chef-module at steffen-mueller dot net
 
-COPYRIGHT AND LICENCE
+Copyright and license
+---------------------
 
 Copyright (c) 2002-2008 Steffen Mueller
 
