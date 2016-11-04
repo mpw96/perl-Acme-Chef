@@ -1,7 +1,7 @@
 Acme::Chef ![Travis CI Build Status](https://travis-ci.org/mpw96/perl-Acme-Chef.svg?branch=master)
 ==========
 Acme::Chef and all contained modules represent a simple
-interpreter of the ![Chef programming language](http://www.dangermouse.net/esoteric/chef.html) designed by
+interpreter of the [Chef programming language](http://www.dangermouse.net/esoteric/chef.html) designed by
 David Morgan-Mar.
 
 Installation
@@ -39,13 +39,13 @@ See also
 The source code for Acme::Chef lives at GitHub:
   https://github.com/mpw96/perl-Acme-Chef
 
-Please send your suggestions, inquiries, and feedback to
+Please send your suggestions, inquiries, and feedback to  
 chef-module at steffen-mueller dot net  
-or create an ![issue](https://github.com/mpw96/perl-Acme-Chef/issues).
+or create an [issue](https://github.com/mpw96/perl-Acme-Chef/issues).
 
 Copyright and license
 ---------------------
 Copyright (c) 2002-2008 Steffen Mueller
 
 This library is free software; you can redistribute it and/or modify
-it under the same terms as Perl itself. 
+it under the same terms as Perl itself.
