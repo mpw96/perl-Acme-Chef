@@ -19,6 +19,7 @@ script/compilechef
 t/00pod.t
 t/00podcover.t
 t/01hello.t
+t/02helloliquefy.t
 t/11japh.t
 t/21exp.t
 t/25long.t
