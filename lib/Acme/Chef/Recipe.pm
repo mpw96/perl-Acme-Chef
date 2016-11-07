@@ -152,9 +152,7 @@ $VERSION = '1.00';
      liquify_contents => sub {
         my $recipe = shift;
         local $_ = shift;
-        /^Liquify (?:the )?contents of (?:the )?(?:$ord )?mixing bowl$/ or
-        /^Liquefy (?:the )?contents of (?:the )?(?:$ord )?mixing bowl$/ or
-        return();
+        /^Liqu(?:i|e)fy (?:the )?contents of (?:the )?(?:$ord )?mixing bowl$/ or return();
         $recipe->require_bowl($1||1);
         return 'liquify_contents', ($1||1);
      },
@@ -162,9 +160,7 @@ $VERSION = '1.00';
      liquify => sub {
         my $recipe = shift;
         local $_ = shift;
-        /^Liquify (?:the )?$ingr$/ or
-        /^Liquefy (?:the )?$ingr$/ or
-        return();
+        /^Liqu(?:i|e)fy (?:the )?$ingr$/ or return();
         $recipe->require_ingredient($1, 'liquify');
         return 'liquify', $1;
      },

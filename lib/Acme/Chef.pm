@@ -455,6 +455,7 @@ result into the nth mixing bowl.
 =item *
 
 C<Liquify ingredient.>
+I<New specification!> C<Liquefy ingredient.>
 
 This turns the ingredient into a liquid, i.e. a Unicode character for
 output purposes.
@@ -462,6 +463,7 @@ output purposes.
 =item *
 
 C<Liquify contents of the [nth] mixing bowl.>
+I<New specification!> C<Liquefy contents of the [nth] mixing bowl.>
 
 This turns all the ingredients in the nth mixing bowl into a liquid, i.e.
 a Unicode characters for output purposes.
