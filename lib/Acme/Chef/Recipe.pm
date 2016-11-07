@@ -30,7 +30,7 @@ This is list of methods in this package.
 =cut
 
 use vars qw/$VERSION %Grammars @GrammarOrder %Commands/;
-$VERSION = '1.00';
+$VERSION = '1.01';
 
 @GrammarOrder = qw(
   take_from add_dry put fold add remove combine divide
