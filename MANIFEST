@@ -22,6 +22,7 @@ t/00podcover.t
 t/01hello.t
 t/02helloliquefy.t
 t/03bowlquantifier.t 
+t/06addto2ndbowl.t
 t/11japh.t
 t/21exp.t
 t/25long.t

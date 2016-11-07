@@ -136,22 +136,22 @@ Needless lines of code.
 Put number into 11st mixing bowl.
 Yes lines of code until needlessed.
 Refrigerate.
-Add number into 11st mixing bowl.
-Add number into the 11st mixing bowl.
+Add number to 11st mixing bowl.
+Add number to the 11st mixing bowl.
 Combine number into 11st mixing bowl.
 Combine number into the 11st mixing bowl.
 Divide number into 11st mixing bowl.
 Divide number into the 11st mixing bowl.
 Divide the number into 11th mixing bowl.
 Divide the number into the 11st mixing bowl.
-Add dry ingredients into 11st mixing bowl.
-Add dry ingredients into the 11st mixing bowl.
-Add the dry ingredients into 11st mixing bowl.
-Add the dry ingredients into the 11st mixing bowl.
+Add dry ingredients to 11st mixing bowl.
+Add dry ingredients to the 11st mixing bowl.
+Add the dry ingredients to 11st mixing bowl.
+Add the dry ingredients to the 11st mixing bowl.
 Liquify the contents of the 11nd mixing bowl.
-Liquify contents of the 11nd mixing bowl.
+Liquefy contents of the 11nd mixing bowl.
 Liquify the contents of 11nd mixing bowl.
-Liquify contents of 11nd mixing bowl.
+Liquefy contents of 11nd mixing bowl.
 Liquify the lines of code.
 Stir the 11th mixing bowl for 100 minutes.
 Stir 11th mixing bowl for 100 minutes.

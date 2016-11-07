@@ -85,8 +85,8 @@ $VERSION = '1.00';
         my $recipe = shift;
         local $_ = shift;
         my $regex;
-        if (/ into (?:the )?(?:$ord )?mixing bowl$/) {
-           $regex = qr/^Add (?:the )?$ingr into (?:the )?(?:$ord )?mixing bowl$/;
+        if (/ to (?:the )?(?:$ord )?mixing bowl$/) {
+           $regex = qr/^Add (?:the )?$ingr to (?:the )?(?:$ord )?mixing bowl$/;
         } else {
            $regex = qr/^Add (?:the )?$ingr()$/;
         }
@@ -144,7 +144,7 @@ $VERSION = '1.00';
      add_dry => sub {
         my $recipe = shift;
         local $_ = shift;
-        /^Add (?:the )?dry ingredients(?: into (?:the )?(?:$ord )?mixing bowl)?$/ or return();
+        /^Add (?:the )?dry ingredients(?: to (?:the )?(?:$ord )?mixing bowl)?$/ or return();
         $recipe->require_bowl($1||1);
         return 'add_dry', ($1||1);
      },
