@@ -20,13 +20,6 @@ On platforms that don't support the "./" notation, that would be:
     perl Build test
     perl Build install
 
-If you wish, you may use the old MakeMaker style instead:
-
-    perl Makefile.PL
-    make
-    make test
-    make install
-
 Dependencies
 ------------
 This module requires these other modules and libraries:

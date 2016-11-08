@@ -1,5 +1,9 @@
 Revision history for Perl extension Language::Chef.
 
+1.02  Mon, 07 Nov 2016 22:01:47 GMT
+        - allow Liquefy
+        - add ingredients TO a bowl, not INTO a bowl
+
 1.01  Tue May 13 11:33:23 2008
         - s/refridgerator/refrigerator/g, oops!
 
