@@ -10,7 +10,7 @@ use warnings;
 use Carp;
 
 use vars qw/$VERSION/;
-$VERSION = '1.02';
+$VERSION = '1.03';
 
 use Acme::Chef::Recipe;
 use Acme::Chef::Container;
