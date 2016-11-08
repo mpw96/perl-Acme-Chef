@@ -32,9 +32,7 @@ See also
 The source code for Acme::Chef lives at GitHub:
   https://github.com/mpw96/perl-Acme-Chef
 
-Please send your suggestions, inquiries, and feedback to  
-chef-module at steffen-mueller dot net  
-or create an [issue](https://github.com/mpw96/perl-Acme-Chef/issues).
+For suggestions, inquiries and feedback please or create an [issue](https://github.com/mpw96/perl-Acme-Chef/issues).
 
 Copyright and license
 ---------------------
